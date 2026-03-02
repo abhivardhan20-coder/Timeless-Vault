@@ -73,6 +73,7 @@ function Login() {
           text="signin_with"
         />
       </div>
+
       <p className="mt-4 text-center">
         No account?{" "}
         <Link to="/register" className="text-purple-400">
