@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+python-jose
+pydantic[email]
+cryptography
+openai
+python-multipart
+pdfplumber
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
